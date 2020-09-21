@@ -1,0 +1,6 @@
+Python 3.7
+Nltk (pip install nltk)
+Numpy (pip install numpy)
+Tflearn (pip install tflearn)
+Virtualenv (pip install virtualenv)
+Tensorflow (pip install tensorflow==1.15)
